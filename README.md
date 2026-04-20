@@ -1,5 +1,5 @@
-# 🧩 Zyphor OS Packages
+# 🌐 Zyphor APT Repository
 
-Zyphor OS Packages is the official package collection and APT repository for the Zyphor ecosystem. It provides essential system tools, configurations, and custom utilities designed specifically for Zyphor OS.
+This is the official APT repository for Zyphor OS packages.
 
-This repository serves as the distribution channel for all `.deb` packages maintained under the Zyphor project, allowing users to install and update software seamlessly using the APT package manager.
+It hosts prebuilt `.deb` packages used by the Zyphor ecosystem and allows users to install and update Zyphor tools directly through the APT package manager.
