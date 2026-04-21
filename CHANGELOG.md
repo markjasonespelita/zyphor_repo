@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.7.0...v1.8.0) (2026-04-21)
+
+
+### Features
+
+* added channel and flags on every packages and applications. ([d94de0c](https://github.com/markjasonespelita/zyphor_repo/commit/d94de0cb221d87ed65da86547d8492f06bf9a8d9))
+
 # [1.7.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.6.0...v1.7.0) (2026-04-21)
 
 
