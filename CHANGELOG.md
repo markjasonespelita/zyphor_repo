@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.2.0...v1.3.0) (2026-04-21)
+
+
+### Features
+
+* added zyphor-cli-v1.3.0 deb file. ([1639d03](https://github.com/markjasonespelita/zyphor_repo/commit/1639d036c9acbc153e93fe4039f624bc7f9bfae3))
+
 # [1.2.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.1.0...v1.2.0) (2026-04-21)
 
 
