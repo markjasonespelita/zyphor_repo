@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.1.0...v1.2.0) (2026-04-21)
+
+
+### Features
+
+* added smart app registry. ([60f9745](https://github.com/markjasonespelita/zyphor_repo/commit/60f974538b67abbb0d3df6e711ceff62632b383f))
+
 # [1.1.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.0.1...v1.1.0) (2026-04-21)
 
 
