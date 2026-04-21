@@ -24,6 +24,51 @@
       "package": "htop"
     },
 
+    "git": {
+      "type": "apt",
+      "package": "git"
+    },
+
+    "nodejs": {
+      "type": "apt",
+      "package": "nodejs"
+    },
+
+    "npm": {
+      "type": "apt",
+      "package": "npm"
+    },
+
+    "mysql": {
+      "type": "apt",
+      "package": "mysql-server"
+    },
+
+    "ssh": {
+      "type": "apt",
+      "package": "openssh-server"
+    },
+
+    "vsftpd": {
+      "type": "apt",
+      "package": "vsftpd"
+    },
+
+    "filezilla-beta": {
+      "type": "snap",
+      "package": "filezilla"
+    },
+
+    "mysql-workbench": {
+      "type": "snap",
+      "package": "mysql-workbench-community"
+    },
+
+    "postman": {
+      "type": "snap",
+      "package": "postman"
+    },
+
     "zyphor-cli": {
       "type": "apt",
       "package": "zyphor-cli"
@@ -32,6 +77,27 @@
     "zyphor-wallpapers-default-2026-2027": {
       "type": "apt",
       "package": "zyphor-wallpapers-default-2026-2027"
+    }
+  },
+
+  "php": {
+    "8.4": {
+      "packages": [
+        "php8.4",
+        "php8.4-cli",
+        "php8.4-fpm",
+        "php8.4-mysql",
+        "php8.4-sqlite3",
+        "php8.4-xml",
+        "php8.4-mbstring",
+        "php8.4-curl",
+        "php8.4-zip",
+        "php8.4-bcmath",
+        "php8.4-intl",
+        "php8.4-redis",
+        "php8.4-gd",
+        "libapache2-mod-php8.4"
+      ]
     }
   }
 }
