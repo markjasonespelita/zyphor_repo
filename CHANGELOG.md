@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.6.0...v1.7.0) (2026-04-21)
+
+
+### Features
+
+* added snap support. ([f9e7dd5](https://github.com/markjasonespelita/zyphor_repo/commit/f9e7dd5d96ad28b02d91d622ecb860e9568747b7))
+
 # [1.6.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.5.3...v1.6.0) (2026-04-21)
 
 
