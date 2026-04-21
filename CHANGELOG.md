@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.3.0...v1.3.1) (2026-04-21)
+
+
+### Bug Fixes
+
+* fix zyphor-cli package version to v1.3.0 ([5ba2c75](https://github.com/markjasonespelita/zyphor_repo/commit/5ba2c7508f849be1b4946071a5e0c73577bdc2a8))
+
 # [1.3.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.2.0...v1.3.0) (2026-04-21)
 
 
