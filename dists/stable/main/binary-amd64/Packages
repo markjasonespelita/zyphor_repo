@@ -4,10 +4,10 @@ Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-cli.deb
-Size: 6048
-MD5sum: 2cdf2f145a9d945fa29e64ede767beda
-SHA1: 55a531dcd2251bd953bfa5947d3ebf0c5582ba8b
-SHA256: c97d058dc619e337916fc3f7cee832e10cd05aa165eec042f62bd896fbd57126
+Size: 7238
+MD5sum: 8a236c1374eec5ebd687de11fa76a323
+SHA1: f9a6ed883b7fad17d600e1faca15f751f2ffc1d7
+SHA256: 7b4dd5184a6e8ad665f908d1ceb815b71fc38a6663c6a8692bed1b19176f3ec9
 Section: utils
 Priority: optional
 Description: Zyphor OS CLI abstraction layer
