@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.4.0...v1.5.0) (2026-04-21)
+
+
+### Features
+
+* added default wallpapers - downloadable and configurable. ([2bea615](https://github.com/markjasonespelita/zyphor_repo/commit/2bea615bbca64f1f7e026c6555c5511237c386a7))
+
 # [1.4.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.3.1...v1.4.0) (2026-04-21)
 
 
