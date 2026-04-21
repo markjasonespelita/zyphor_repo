@@ -1,0 +1,37 @@
+{
+  "repos": {
+    "google-chrome": {
+      "key_url": "https://dl.google.com/linux/linux_signing_key.pub",
+      "repo_line": "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main",
+      "source_file": "/etc/apt/sources.list.d/google-chrome.list"
+    }
+  },
+
+  "apps": {
+    "chrome": {
+      "type": "repo",
+      "package": "google-chrome-stable",
+      "repo": "google-chrome"
+    },
+
+    "vscode": {
+      "type": "apt",
+      "package": "code"
+    },
+
+    "zyphor-cli": {
+      "type": "apt",
+      "package": "zyphor-cli"
+    },
+
+    "zyphor-wallpapers": {
+      "type": "apt",
+      "package": "zyphor-wallpapers"
+    },
+
+    "zyphor-config": {
+      "type": "apt",
+      "package": "zyphor-config"
+    }
+  }
+}
