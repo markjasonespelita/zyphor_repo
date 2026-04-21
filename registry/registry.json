@@ -105,6 +105,13 @@
       "package": "zyphor-wallpapers-default-2026-2027",
       "channel": "",
       "flags": ""
+    },
+
+    "zyphor-wallpapers-pragmata": {
+      "type": "apt",
+      "package": "zyphor-wallpapers-pragmata",
+      "channel": "",
+      "flags": ""
     }
   },
 
