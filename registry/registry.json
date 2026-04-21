@@ -29,14 +29,9 @@
       "package": "zyphor-cli"
     },
 
-    "zyphor-wallpapers": {
+    "zyphor-wallpapers-default-2026-2027": {
       "type": "apt",
-      "package": "zyphor-wallpapers"
-    },
-
-    "zyphor-config": {
-      "type": "apt",
-      "package": "zyphor-config"
+      "package": "zyphor-wallpapers-default-2026-2027"
     }
   }
 }
