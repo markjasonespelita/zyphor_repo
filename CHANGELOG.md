@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.10.0...v1.10.1) (2026-04-21)
+
+
+### Bug Fixes
+
+* changed mysql-server to mariadb-server on app registry ([e339277](https://github.com/markjasonespelita/zyphor_repo/commit/e339277149c1aca2602d92ce0b99e382789fcf91))
+
 # [1.10.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.9.1...v1.10.0) (2026-04-21)
 
 
