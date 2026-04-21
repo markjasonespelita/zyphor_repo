@@ -1,3 +1,10 @@
+## [1.5.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.5.1...v1.5.2) (2026-04-21)
+
+
+### Bug Fixes
+
+* removed .gitignore on the wallpapers default root. ([4e9ace8](https://github.com/markjasonespelita/zyphor_repo/commit/4e9ace8386f6a7f6a59aaf6d3910328f85493ea7))
+
 ## [1.5.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.5.0...v1.5.1) (2026-04-21)
 
 
