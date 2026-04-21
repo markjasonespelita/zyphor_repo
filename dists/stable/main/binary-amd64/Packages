@@ -12,3 +12,17 @@ Section: utils
 Priority: optional
 Description: Zyphor OS CLI abstraction layer
 
+Package: zyphor-wallpapers-default-2026-2027
+Version: 1.0.0
+Architecture: all
+Maintainer: Mark Jason P. Espelita
+Depends: bash
+Filename: pool/main/z/wallpapers-default-2026-2027.deb
+Size: 9657810
+MD5sum: 43e92d6a44a4d5a80ed1e5af93223f78
+SHA1: d9bbcbf02dea91cf6773774de91e666f8cacd7fa
+SHA256: 2c9d58ab9e8b02731c1ce4ecec5277d5f1fa957da6e3e350807fab5a8b591d77
+Section: utils
+Priority: optional
+Description: Zyphor OS wallpapers-default-2026-2027
+
