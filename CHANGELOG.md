@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.8.0...v1.9.0) (2026-04-21)
+
+
+### Features
+
+* added channel and flags support on every install, search, remove and list of applications and packages. ([b809c9a](https://github.com/markjasonespelita/zyphor_repo/commit/b809c9acb350382c741b2cb0becdf7c04141c581))
+
 # [1.8.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.7.0...v1.8.0) (2026-04-21)
 
 
