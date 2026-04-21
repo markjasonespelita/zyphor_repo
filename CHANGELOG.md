@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.0.1...v1.1.0) (2026-04-21)
+
+
+### Features
+
+* added a build cli abstraction layer - for building custom .deb binaries of the zyphor os package ecosystem. ([bfd9dd5](https://github.com/markjasonespelita/zyphor_repo/commit/bfd9dd553e9f91475b6c25d153bdb5d06433a301))
+
 ## [1.0.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.0.0...v1.0.1) (2026-04-20)
 
 
