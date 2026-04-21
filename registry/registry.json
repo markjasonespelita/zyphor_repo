@@ -19,6 +19,11 @@
       "package": "code"
     },
 
+    "htop": {
+      "type": "apt",
+      "package": "htop"
+    },
+
     "zyphor-cli": {
       "type": "apt",
       "package": "zyphor-cli"
