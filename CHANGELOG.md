@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.9.1...v1.10.0) (2026-04-21)
+
+
+### Features
+
+* added wallpapers pragmata. ([d50041c](https://github.com/markjasonespelita/zyphor_repo/commit/d50041c1cea68ac47d79ff1a2a5fab6b718724e6))
+
 ## [1.9.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.9.0...v1.9.1) (2026-04-21)
 
 
