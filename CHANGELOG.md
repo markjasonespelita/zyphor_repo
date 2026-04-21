@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.9.0...v1.9.1) (2026-04-21)
+
+
+### Bug Fixes
+
+* fixed version number in zyphor cli and zyphor os build number ([83e57dc](https://github.com/markjasonespelita/zyphor_repo/commit/83e57dc876eb3e5799e8a20869e62df7bb15ca25))
+
 # [1.9.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.8.0...v1.9.0) (2026-04-21)
 
 
