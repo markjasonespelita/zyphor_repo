@@ -18,10 +18,10 @@ Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/wallpapers-default-2026-2027.deb
-Size: 9657810
-MD5sum: 43e92d6a44a4d5a80ed1e5af93223f78
-SHA1: d9bbcbf02dea91cf6773774de91e666f8cacd7fa
-SHA256: 2c9d58ab9e8b02731c1ce4ecec5277d5f1fa957da6e3e350807fab5a8b591d77
+Size: 9658044
+MD5sum: b30cbb22be8f875d203fca294a72c4a4
+SHA1: 197e8e9a7fa51418dc2e35efd2bbbf0867d9759b
+SHA256: 69f364457194b41da4144a7f3aabe17d23f0379de03a0b7c2acf0703e85db845
 Section: utils
 Priority: optional
 Description: Zyphor OS wallpapers-default-2026-2027
