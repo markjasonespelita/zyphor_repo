@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.5.0...v1.5.1) (2026-04-21)
+
+
+### Bug Fixes
+
+* added wallpapers default 2026-2027 on the app registry. ([dddb825](https://github.com/markjasonespelita/zyphor_repo/commit/dddb8251c3d6a68e49daf6aba6cfd10549b4da1a))
+
 # [1.5.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.4.0...v1.5.0) (2026-04-21)
 
 
