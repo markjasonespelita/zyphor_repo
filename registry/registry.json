@@ -11,72 +11,100 @@
     "chrome": {
       "type": "repo",
       "package": "google-chrome-stable",
-      "repo": "google-chrome"
+      "repo": "google-chrome",
+      "channel": "",
+      "flags": ""
     },
 
     "vscode": {
       "type": "apt",
-      "package": "code"
+      "package": "code",
+      "channel": "",
+      "flags": ""
     },
 
     "htop": {
       "type": "apt",
-      "package": "htop"
+      "package": "htop",
+      "channel": "",
+      "flags": ""
     },
 
     "git": {
       "type": "apt",
-      "package": "git"
+      "package": "git",
+      "channel": "",
+      "flags": ""
     },
 
     "nodejs": {
       "type": "apt",
-      "package": "nodejs"
+      "package": "nodejs",
+      "channel": "",
+      "flags": ""
     },
 
     "npm": {
       "type": "apt",
-      "package": "npm"
+      "package": "npm",
+      "channel": "",
+      "flags": ""
     },
 
     "mysql": {
       "type": "apt",
-      "package": "mysql-server"
+      "package": "mysql-server",
+      "channel": "",
+      "flags": ""
     },
 
     "ssh": {
       "type": "apt",
-      "package": "openssh-server"
+      "package": "openssh-server",
+      "channel": "",
+      "flags": ""
     },
 
     "vsftpd": {
       "type": "apt",
-      "package": "vsftpd"
+      "package": "vsftpd",
+      "channel": "",
+      "flags": ""
     },
 
-    "filezilla-beta": {
+    "filezilla": {
       "type": "snap",
-      "package": "filezilla"
+      "package": "filezilla",
+      "channel": "beta",
+      "flags": ""
     },
 
     "mysql-workbench": {
       "type": "snap",
-      "package": "mysql-workbench-community"
+      "package": "mysql-workbench-community",
+      "channel": "",
+      "flags": ""
     },
 
     "postman": {
       "type": "snap",
-      "package": "postman"
+      "package": "postman",
+      "channel": "",
+      "flags": ""
     },
 
     "zyphor-cli": {
       "type": "apt",
-      "package": "zyphor-cli"
+      "package": "zyphor-cli",
+      "channel": "",
+      "flags": ""
     },
 
     "zyphor-wallpapers-default-2026-2027": {
       "type": "apt",
-      "package": "zyphor-wallpapers-default-2026-2027"
+      "package": "zyphor-wallpapers-default-2026-2027",
+      "channel": "",
+      "flags": ""
     }
   },
 
