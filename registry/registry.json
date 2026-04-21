@@ -53,7 +53,7 @@
 
     "mysql": {
       "type": "apt",
-      "package": "mysql-server",
+      "package": "mariadb-server",
       "channel": "",
       "flags": ""
     },
