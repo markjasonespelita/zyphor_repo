@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.5.3...v1.6.0) (2026-04-21)
+
+
+### Features
+
+* added more supported packages and applications. ([3c50980](https://github.com/markjasonespelita/zyphor_repo/commit/3c50980a5ad76971c0765854f2dfa112d84d7073))
+
 ## [1.5.3](https://github.com/markjasonespelita/zyphor_repo/compare/v1.5.2...v1.5.3) (2026-04-21)
 
 
