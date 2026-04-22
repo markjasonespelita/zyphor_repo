@@ -117,6 +117,20 @@
       "flags": ""
     },
 
+    "lolcat": {
+      "type": "apt",
+      "package": "lolcat",
+      "channel": "",
+      "flags": ""
+    },
+
+    "figlet": {
+      "type": "apt",
+      "package": "figlet",
+      "channel": "",
+      "flags": ""
+    },
+
     "filezilla": {
       "type": "snap",
       "package": "filezilla",
