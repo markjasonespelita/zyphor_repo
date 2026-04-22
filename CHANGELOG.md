@@ -1,3 +1,10 @@
+## [1.15.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.0...v1.15.1) (2026-04-22)
+
+
+### Bug Fixes
+
+* added package attributes on every .deb packages on the app registry. ([97c61e9](https://github.com/markjasonespelita/zyphor_repo/commit/97c61e99214e3c9b9bd129be9e4552b9e6604cb4))
+
 # [1.15.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.14.0...v1.15.0) (2026-04-22)
 
 
