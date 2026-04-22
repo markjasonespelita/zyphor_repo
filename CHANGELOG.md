@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.12.0...v1.13.0) (2026-04-22)
+
+
+### Features
+
+* uploaded the new zyphor-cli v1.4.0 ([d5b8b28](https://github.com/markjasonespelita/zyphor_repo/commit/d5b8b28feb296de9f43375e7f97f6dd5aaa41a18))
+
 # [1.12.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.11.2...v1.12.0) (2026-04-22)
 
 
