@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.16.0...v1.17.0) (2026-04-22)
+
+
+### Features
+
+* added support for lolcat and figlet. ([334cffa](https://github.com/markjasonespelita/zyphor_repo/commit/334cffab93dad7efc36364fe4da0ed17d1cc290f))
+
 # [1.16.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.4...v1.16.0) (2026-04-22)
 
 
