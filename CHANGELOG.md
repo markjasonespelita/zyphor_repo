@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.4...v1.16.0) (2026-04-22)
+
+
+### Features
+
+* added libreoffice applications support. ([bcf5d1a](https://github.com/markjasonespelita/zyphor_repo/commit/bcf5d1aa13c297c2f1eff452566098288a119e7b))
+
 ## [1.15.4](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.3...v1.15.4) (2026-04-22)
 
 
