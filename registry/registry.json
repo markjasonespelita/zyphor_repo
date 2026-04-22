@@ -9,9 +9,8 @@
 
   "apps": {
     "chrome": {
-      "type": "repo",
-      "package": "google-chrome-stable",
-      "repo": "google-chrome",
+      "type": "deb",
+      "url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
       "channel": "",
       "flags": ""
     },
