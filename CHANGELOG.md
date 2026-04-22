@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.10.1...v1.11.0) (2026-04-22)
+
+
+### Features
+
+* added 5 more pragmata wallpapers available. ([bb8131a](https://github.com/markjasonespelita/zyphor_repo/commit/bb8131ab774fb512db9d721216acbf074de86635))
+
 ## [1.10.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.10.0...v1.10.1) (2026-04-21)
 
 
