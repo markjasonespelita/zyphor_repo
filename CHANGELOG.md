@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.11.1...v1.11.2) (2026-04-22)
+
+
+### Bug Fixes
+
+* change zyphor cli command line version. ([819ab8f](https://github.com/markjasonespelita/zyphor_repo/commit/819ab8f2fb01399d9afb08d39f4380c20faada13))
+
 ## [1.11.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.11.0...v1.11.1) (2026-04-22)
 
 
