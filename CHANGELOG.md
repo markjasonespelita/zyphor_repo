@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.14.0...v1.15.0) (2026-04-22)
+
+
+### Features
+
+* added whatsapp support in the app registry. ([1110d8d](https://github.com/markjasonespelita/zyphor_repo/commit/1110d8d9a83c891ca6bfd57724a933092a5b1ecb))
+
 # [1.14.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.13.1...v1.14.0) (2026-04-22)
 
 
