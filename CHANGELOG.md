@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.11.2...v1.12.0) (2026-04-22)
+
+
+### Features
+
+* removed repo type and replace/add it with deb type packages. ([f951329](https://github.com/markjasonespelita/zyphor_repo/commit/f9513295f0c8624f7b1d21db77c7189ff3c56492))
+
 ## [1.11.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.11.1...v1.11.2) (2026-04-22)
 
 
