@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.11.0...v1.11.1) (2026-04-22)
+
+
+### Bug Fixes
+
+* fixed zyphor os build version to v1.3.1 Stable. ([76855e1](https://github.com/markjasonespelita/zyphor_repo/commit/76855e13fa8a2b93819010c4b6bc0b0b23c63c49))
+
 # [1.11.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.10.1...v1.11.0) (2026-04-22)
 
 
