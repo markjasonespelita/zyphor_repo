@@ -1,3 +1,10 @@
+## [1.13.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.13.0...v1.13.1) (2026-04-22)
+
+
+### Bug Fixes
+
+* fixed zyphor cli pkg search module. ([6147f7e](https://github.com/markjasonespelita/zyphor_repo/commit/6147f7e92f72e1acd4b09fbf79816c90c1d50a66))
+
 # [1.13.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.12.0...v1.13.0) (2026-04-22)
 
 
