@@ -1,3 +1,10 @@
+## [1.15.3](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.2...v1.15.3) (2026-04-22)
+
+
+### Bug Fixes
+
+* changed list and remove pkg logic ([084932b](https://github.com/markjasonespelita/zyphor_repo/commit/084932b6d83f4f5180c570ae47906d3013dbf399))
+
 ## [1.15.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.1...v1.15.2) (2026-04-22)
 
 
