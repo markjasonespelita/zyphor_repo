@@ -89,6 +89,34 @@
       "flags": ""
     },
 
+    "libreoffice": {
+      "type": "apt",
+      "package": "libreoffice",
+      "channel": "",
+      "flags": ""
+    },
+
+    "libreoffice-writer": {
+      "type": "apt",
+      "package": "libreoffice-writer",
+      "channel": "",
+      "flags": ""
+    },
+
+    "libreoffice-calc": {
+      "type": "apt",
+      "package": "libreoffice-calc",
+      "channel": "",
+      "flags": ""
+    },
+
+    "libreoffice-impress": {
+      "type": "apt",
+      "package": "libreoffice-impress",
+      "channel": "",
+      "flags": ""
+    },
+
     "filezilla": {
       "type": "snap",
       "package": "filezilla",
