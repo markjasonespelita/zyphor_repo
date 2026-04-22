@@ -27,15 +27,15 @@ Priority: optional
 Description: Zyphor OS wallpapers-default-2026-2027
 
 Package: zyphor-wallpapers-pragmata
-Version: 1.0.0
+Version: 1.1.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/wallpapers-pragmata.deb
-Size: 7953136
-MD5sum: 0c900cd28e2e6398e2bb23061a9a5db9
-SHA1: 9066300151104ec403b4b178509c98bfd928c4bd
-SHA256: 21569b0890bad69afa171561b1f52ae6384f2d0ee5b83a636e4419e25a0fee5b
+Size: 9991754
+MD5sum: e9bfdd90127dddce2c612ea185251198
+SHA1: f15d54beeb9409b1b2fc6ca3fa86e025183e2b51
+SHA256: de5c6c1fca1ff7380716f1e4a0eaf373483b92921c3fd9e74e6a471efc47688a
 Section: utils
 Priority: optional
 Description: Zyphor OS wallpapers-pragmata
