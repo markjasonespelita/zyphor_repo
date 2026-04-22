@@ -37,7 +37,7 @@
       "url": "https://phoenixnap.dl.sourceforge.net/project/xanmian/deb/bookworm/whatsapp-for-linux_0_amd64.deb?viasf=1",
       "channel": "",
       "flags": "",
-      "package": "whatsapp"
+      "package": "whatsapp-for-linux"
     },
 
     "htop": {
