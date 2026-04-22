@@ -1,3 +1,10 @@
+## [1.15.4](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.3...v1.15.4) (2026-04-22)
+
+
+### Bug Fixes
+
+* first-time snap install = reliable, no random cancellations, no broken daemon state. ([267cadf](https://github.com/markjasonespelita/zyphor_repo/commit/267cadfc245dcd626a60b84f83cd0c077bb324f1))
+
 ## [1.15.3](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.2...v1.15.3) (2026-04-22)
 
 
