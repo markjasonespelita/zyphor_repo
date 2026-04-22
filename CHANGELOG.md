@@ -1,3 +1,10 @@
+## [1.15.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.1...v1.15.2) (2026-04-22)
+
+
+### Bug Fixes
+
+* changed whatsapp package name to whatsapp-for-linux ([b5c27a3](https://github.com/markjasonespelita/zyphor_repo/commit/b5c27a3d4e3395fa5e42838c492984d87cc6b056))
+
 ## [1.15.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.15.0...v1.15.1) (2026-04-22)
 
 
