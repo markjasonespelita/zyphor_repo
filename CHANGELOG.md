@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.13.1...v1.14.0) (2026-04-22)
+
+
+### Features
+
+* added app registry for zoom and vscode deb support. ([f513de2](https://github.com/markjasonespelita/zyphor_repo/commit/f513de2e8ac4c9565be19832e86d079cec3ccd5d))
+
 ## [1.13.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.13.0...v1.13.1) (2026-04-22)
 
 
