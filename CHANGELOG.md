@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.20.0...v1.21.0) (2026-04-27)
+
+
+### Features
+
+* added cache registry refresher if internet is available. ([8a193a6](https://github.com/markjasonespelita/zyphor_repo/commit/8a193a6b009d8b08e243243c2c14647dedb6992d))
+
 # [1.20.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.19.0...v1.20.0) (2026-04-27)
 
 
