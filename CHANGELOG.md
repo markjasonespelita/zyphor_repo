@@ -1,3 +1,10 @@
+## [1.24.3](https://github.com/markjasonespelita/zyphor_repo/compare/v1.24.2...v1.24.3) (2026-04-27)
+
+
+### Bug Fixes
+
+* remove .gitignore on pragmata and nature wallpapers in /usr/share directory. ([0543563](https://github.com/markjasonespelita/zyphor_repo/commit/0543563507c9b695d6469ec75f025f4771bbb7ae))
+
 ## [1.24.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.24.1...v1.24.2) (2026-04-27)
 
 
