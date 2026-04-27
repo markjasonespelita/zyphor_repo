@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.22.1...v1.23.0) (2026-04-27)
+
+
+### Features
+
+* added composer php support on the app registry. ([54d936c](https://github.com/markjasonespelita/zyphor_repo/commit/54d936c6fa68c9012e0dfa1ff9ca06122863cb51))
+
 ## [1.22.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.22.0...v1.22.1) (2026-04-27)
 
 
