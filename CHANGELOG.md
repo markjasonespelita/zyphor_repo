@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.19.0...v1.20.0) (2026-04-27)
+
+
+### Features
+
+* added minifier and prettifier on the root for the registry.json, also making the php object separated rather than objects ([90fbc56](https://github.com/markjasonespelita/zyphor_repo/commit/90fbc565de631e90c050e8b32595ae1b02390a28))
+
 # [1.19.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.18.2...v1.19.0) (2026-04-27)
 
 
