@@ -26,6 +26,20 @@ Section: utils
 Priority: optional
 Description: Zyphor OS wallpapers-default-2026-2027
 
+Package: zyphor-wallpapers-nature
+Version: 1.0.0
+Architecture: all
+Maintainer: Mark Jason P. Espelita
+Depends: bash
+Filename: pool/main/z/wallpapers-nature.deb
+Size: 24913568
+MD5sum: 54ddfe86a623a5b0d182f7a5914b555a
+SHA1: 2cf53864c16e0b30e0bd259037e785ba842119d0
+SHA256: 0acbc390be6f16fac7d06045186a3b74c28332a7374855278b80d6fa893fe209
+Section: utils
+Priority: optional
+Description: Zyphor OS wallpapers-nature
+
 Package: zyphor-wallpapers-pragmata
 Version: 1.1.1
 Architecture: all
