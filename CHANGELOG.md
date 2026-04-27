@@ -1,3 +1,10 @@
+## [1.24.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.24.0...v1.24.1) (2026-04-27)
+
+
+### Bug Fixes
+
+* removed .gitignore on wallpapers nature /usr directory. ([3c3d5aa](https://github.com/markjasonespelita/zyphor_repo/commit/3c3d5aa8d6bb129d2c9b19998158bac164d3b437))
+
 # [1.24.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.23.0...v1.24.0) (2026-04-27)
 
 
