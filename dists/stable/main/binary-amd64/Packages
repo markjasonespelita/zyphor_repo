@@ -4,10 +4,10 @@ Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-cli.deb
-Size: 8248
-MD5sum: 9d3ed53efdbe2984a5ed29783a50ca1c
-SHA1: 7afd2111efb89f0f818ea73b7fcaf136eff6f757
-SHA256: 6aad707e345e7cf6e2ff71d2ff02d10edf4ae5675b28adece5130c7594a00179
+Size: 8250
+MD5sum: 343bfca5af8a2de76321185fe244f458
+SHA1: 3dea0f61939f97b99155fa361e426c230beaf84f
+SHA256: 6463fed7fa58d59d50387d6c3320638ec10b70a99bf8ac248022ea39fc3eb439
 Section: utils
 Priority: optional
 Description: Zyphor OS CLI abstraction layer
@@ -27,15 +27,15 @@ Priority: optional
 Description: Zyphor OS wallpapers-default-2026-2027
 
 Package: zyphor-wallpapers-pragmata
-Version: 1.1.0
+Version: 1.1.1
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/wallpapers-pragmata.deb
-Size: 9991754
-MD5sum: e9bfdd90127dddce2c612ea185251198
-SHA1: f15d54beeb9409b1b2fc6ca3fa86e025183e2b51
-SHA256: de5c6c1fca1ff7380716f1e4a0eaf373483b92921c3fd9e74e6a471efc47688a
+Size: 9991806
+MD5sum: 1ff3cdd3a33b5e235658d29459f06c0e
+SHA1: 3048a2a6350e7cc3b4f7a2dc1645a9bcabff88e2
+SHA256: 1567ca8fbe042b84cc20a8fbefcf862274798dbbf7e78a76a502782845b2570f
 Section: utils
 Priority: optional
 Description: Zyphor OS wallpapers-pragmata
