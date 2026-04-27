@@ -1,3 +1,10 @@
+## [1.22.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.22.0...v1.22.1) (2026-04-27)
+
+
+### Bug Fixes
+
+* added systemctl enable --now snapd.apparmor in the zyphor cli pkg installations on snap package manager. ([806ebf3](https://github.com/markjasonespelita/zyphor_repo/commit/806ebf390f909a094790e1e651235800a014afbd))
+
 # [1.22.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.21.0...v1.22.0) (2026-04-27)
 
 
