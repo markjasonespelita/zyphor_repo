@@ -1,3 +1,10 @@
+## [1.18.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.18.1...v1.18.2) (2026-04-27)
+
+
+### Bug Fixes
+
+* changed the zyphor cli version to adopt changes in the build version ([a28fb2b](https://github.com/markjasonespelita/zyphor_repo/commit/a28fb2b35100209b25316edc69f130e0906ba8ee))
+
 ## [1.18.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.18.0...v1.18.1) (2026-04-27)
 
 
