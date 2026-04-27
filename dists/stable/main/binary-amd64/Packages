@@ -41,15 +41,15 @@ Priority: optional
 Description: Zyphor OS wallpapers-nature
 
 Package: zyphor-wallpapers-pragmata
-Version: 1.1.1
+Version: 1.1.2
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/wallpapers-pragmata.deb
-Size: 9991806
-MD5sum: 1ff3cdd3a33b5e235658d29459f06c0e
-SHA1: 3048a2a6350e7cc3b4f7a2dc1645a9bcabff88e2
-SHA256: 1567ca8fbe042b84cc20a8fbefcf862274798dbbf7e78a76a502782845b2570f
+Size: 10009588
+MD5sum: f76f07b4c1eff7b3fd0ea181b94d6631
+SHA1: 6aa529998332be756ad7e38cba5127a19e59b935
+SHA256: 80cf34193b46b8037ea5f7ccbb0485b9258727a66525c97136129bbbf896c887
 Section: utils
 Priority: optional
 Description: Zyphor OS wallpapers-pragmata
