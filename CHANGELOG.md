@@ -1,3 +1,10 @@
+# [1.25.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.24.3...v1.25.0) (2026-04-28)
+
+
+### Features
+
+* added wallpapers to /usr/share/backgrounds symlink, added zyphor-cli setup dev (laravel, composer, nodejs). ([b408253](https://github.com/markjasonespelita/zyphor_repo/commit/b4082537b674435dd3f06440a5f43cf5ecfc646c))
+
 ## [1.24.3](https://github.com/markjasonespelita/zyphor_repo/compare/v1.24.2...v1.24.3) (2026-04-27)
 
 
