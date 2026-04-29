@@ -1,3 +1,10 @@
+# [1.26.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.25.0...v1.26.0) (2026-04-28)
+
+
+### Features
+
+* added viber deb package support in the app registry. ([2d3903d](https://github.com/markjasonespelita/zyphor_repo/commit/2d3903d37e2ed45098999cf1c387b435f94e84b8))
+
 # [1.25.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.24.3...v1.25.0) (2026-04-28)
 
 
