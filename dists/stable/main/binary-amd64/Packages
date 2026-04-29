@@ -1,13 +1,13 @@
 Package: zyphor-cli
-Version: 1.10.0
+Version: 1.11.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-cli.deb
-Size: 10784
-MD5sum: 6bd1309381742b25a23e25d1959ebaaa
-SHA1: 868baf5d43ea7cd7b1d8e521f6098a435f388649
-SHA256: 2eb1cdb88ccd2aed2e1480792e4dcb3c6fd23a92bd771ba39c1637246447a01d
+Size: 10804
+MD5sum: 1b764d9b5932161e9bca484e863e1c35
+SHA1: 5c5fab1d74cde0461feae167386ed06057d8470f
+SHA256: 4aadbd92011164383d865c7efb26898ba9d432f2a4ce30634d33fddb812674f6
 Section: utils
 Priority: optional
 Description: Zyphor OS CLI abstraction layer
