@@ -12,6 +12,20 @@ Section: utils
 Priority: optional
 Description: Zyphor OS CLI abstraction layer
 
+Package: zyphor-command-center
+Version: 1.0.0
+Architecture: all
+Maintainer: Mark Jason P. Espelita
+Depends: python3,python3-pyqt6,curl,jq,policykit-1
+Filename: pool/main/z/zyphor-command-center.deb
+Size: 65620
+MD5sum: 30bfda1dad1f4a555ca97f06e909517f
+SHA1: fe5daecb2fd14c98fcb78d39633354faf41a3b76
+SHA256: d58427401dd78a71c2fb7c6f8ce83f452863b58d3a9f72bd45e5391a79b8ad30
+Section: utils
+Priority: optional
+Description: Zyphor command center GUI control panel for Zyphor OS tools
+
 Package: zyphor-wallpapers-default-2026-2027
 Version: 1.0.1
 Architecture: all
