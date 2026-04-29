@@ -1,3 +1,10 @@
+# [1.28.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.27.0...v1.28.0) (2026-04-29)
+
+
+### Features
+
+* added loading indicator in zyphor command center when process is ongoing. ([90e5b68](https://github.com/markjasonespelita/zyphor_repo/commit/90e5b68ee91b118f969c68da7209a8c47e9fc093))
+
 # [1.27.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.26.0...v1.27.0) (2026-04-29)
 
 
