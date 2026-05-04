@@ -1,3 +1,10 @@
+# [1.32.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.31.0...v1.32.0) (2026-05-04)
+
+
+### Features
+
+* added zyphor-updates for future updates. - no need to reinstall iso. ([1fad63f](https://github.com/markjasonespelita/zyphor_repo/commit/1fad63f23afe7df26e31e461efc215bf99b64eed))
+
 # [1.31.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.30.0...v1.31.0) (2026-04-29)
 
 
