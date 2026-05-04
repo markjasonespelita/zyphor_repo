@@ -1,3 +1,10 @@
+## [1.33.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.33.0...v1.33.1) (2026-05-04)
+
+
+### Bug Fixes
+
+* fastfetch config added postinst ([8d37bdc](https://github.com/markjasonespelita/zyphor_repo/commit/8d37bdcd87f82545f7446720220c4c6b90302f40))
+
 # [1.33.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.32.0...v1.33.0) (2026-05-04)
 
 
