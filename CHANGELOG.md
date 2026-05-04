@@ -1,3 +1,10 @@
+# [1.33.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.32.0...v1.33.0) (2026-05-04)
+
+
+### Features
+
+* added zyphor updates, and a centralize mini updates deb ([80041e2](https://github.com/markjasonespelita/zyphor_repo/commit/80041e2d918f66d03e312df5fd6545a7e43e54a6))
+
 # [1.32.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.31.0...v1.32.0) (2026-05-04)
 
 
