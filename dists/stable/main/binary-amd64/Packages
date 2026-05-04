@@ -13,15 +13,15 @@ Priority: optional
 Description: Zyphor OS Fastfetch Config
 
 Package: zyphor-cli
-Version: 1.12.1
+Version: 1.12.2
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-cli.deb
-Size: 10588
-MD5sum: 9cdaafe706c1c8796f2d3177b065d085
-SHA1: f6c32db246e3ca94d88ecc001e206f890a9b5dbc
-SHA256: c618387073495cad042a114ab51847852acbf66a51826852518fdc82976c2307
+Size: 10584
+MD5sum: ca26dc55f40f56febfc628904d762b6d
+SHA1: c0376213b19743ca2e704cf6be0a07a349d09ccf
+SHA256: 9896c60220f4b5df0016aa967a147209f289661ea1d80bb1cc4e112186ade5bb
 Section: utils
 Priority: optional
 Description: Zyphor OS CLI abstraction layer
@@ -44,12 +44,12 @@ Package: zyphor-updates
 Version: 1.0.2
 Architecture: all
 Maintainer: Mark Jason P. Espelita
-Depends: fastfetch-config-1
+Depends: fastfetch-config-1, zyphor-cli, zyphor-command-center, zyphor-wallpapers-nature
 Filename: pool/main/z/zyphor-updates.deb
-Size: 724
-MD5sum: ddfc8b38cc6b5932d52847da662327ec
-SHA1: 9a3ca369ec0d78b3a4119cf89f72306873c54a78
-SHA256: 0d8f03fa6d0c3b5998c20a5e6a11eb5d62f54dc0b5f60135ad9bd71d7ea1a63f
+Size: 756
+MD5sum: 4bb7df944fffeb4a038c095d8d2684d1
+SHA1: c39234ba9d765d96288ff933dca403b162ee25da
+SHA256: a2f4d38851d36c7da717ca783bd9d2c9865c86b1dda6749df209285e9bcc9c18
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
