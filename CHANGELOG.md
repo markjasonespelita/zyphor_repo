@@ -1,3 +1,10 @@
+# [1.34.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.33.4...v1.34.0) (2026-05-04)
+
+
+### Features
+
+* changed zyphor grub screensaver. ([9d03f8e](https://github.com/markjasonespelita/zyphor_repo/commit/9d03f8eefcbeb0fec72355673af01efc6068b00b))
+
 ## [1.33.4](https://github.com/markjasonespelita/zyphor_repo/compare/v1.33.3...v1.33.4) (2026-05-04)
 
 
