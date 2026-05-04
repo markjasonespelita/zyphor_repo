@@ -26,6 +26,20 @@ Section: utils
 Priority: optional
 Description: Zyphor command center GUI control panel for Zyphor OS tools
 
+Package: zyphor-updates
+Version: 0.0.1
+Architecture: all
+Maintainer: Mark Jason P. Espelita
+Depends: bash
+Filename: pool/main/z/zyphor-updates.deb
+Size: 604
+MD5sum: 557b57cffa95c9ed3db8378508c84beb
+SHA1: 4ebf81f7ecf511c84c8684cba4f61e443560197e
+SHA256: ca51195e396db047dcd1bd5db678811151cce3abdf2cb7d54327b5321ed89a91
+Section: utils
+Priority: optional
+Description: Zyphor OS Updates
+
 Package: zyphor-wallpapers-default-2026-2027
 Version: 1.0.1
 Architecture: all
