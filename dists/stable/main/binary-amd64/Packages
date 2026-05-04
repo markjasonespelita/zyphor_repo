@@ -12,6 +12,20 @@ Section: utils
 Priority: optional
 Description: Zyphor OS Fastfetch Config
 
+Package: grub-screensaver-1
+Version: 1.0.0
+Architecture: all
+Maintainer: Mark Jason P. Espelita
+Depends: bash
+Filename: pool/main/z/grub-screensaver-1.deb
+Size: 1365064
+MD5sum: 79c741901fc6dd0a4150a7e591b4ec9b
+SHA1: 3f1884a1f64d8f069ba3c3d62bde92d27f8e2392
+SHA256: bd892b3ef7daab1a77dab390207f151d93d5b60347aa5a896533096229b1835b
+Section: utils
+Priority: optional
+Description: Zyphor OS Grub Screensaver
+
 Package: zyphor-cli
 Version: 1.12.2
 Architecture: all
@@ -41,15 +55,15 @@ Priority: optional
 Description: Zyphor command center GUI control panel for Zyphor OS tools
 
 Package: zyphor-updates
-Version: 1.0.2
+Version: 1.1.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
-Depends: fastfetch-config-1, zyphor-cli, zyphor-command-center, zyphor-wallpapers-nature
+Depends: fastfetch-config-1, grub-screensaver-1, zyphor-cli, zyphor-command-center, zyphor-wallpapers-nature
 Filename: pool/main/z/zyphor-updates.deb
-Size: 756
-MD5sum: 4bb7df944fffeb4a038c095d8d2684d1
-SHA1: c39234ba9d765d96288ff933dca403b162ee25da
-SHA256: a2f4d38851d36c7da717ca783bd9d2c9865c86b1dda6749df209285e9bcc9c18
+Size: 772
+MD5sum: dc2ceda5707d1ece99bde9a0a5f2264e
+SHA1: 8dc2bac7e4d3178c1cc78f7e8d06e69603e9f530
+SHA256: 516840a8a20e6d57808221e709490402644261555dd9a60d366b06324204d323
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
