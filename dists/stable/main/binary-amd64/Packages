@@ -1,3 +1,17 @@
+Package: fastfetch-config-1
+Version: 1.0.2
+Architecture: all
+Maintainer: Mark Jason P. Espelita
+Depends: bash
+Filename: pool/main/z/fastfetch-config-1.deb
+Size: 1688
+MD5sum: bc3bd6325b603a43c11579390464e715
+SHA1: fff14456fd02e86dd3e65a5a375d13981c46e0ba
+SHA256: 27ad5400706c1301f25e4ba3160a6c4df575d65fa813886c088e83bab436a9cd
+Section: utils
+Priority: optional
+Description: Zyphor OS Fastfetch Config
+
 Package: fastfetch-config-1.0.0
 Version: 1.0.0
 Architecture: all
@@ -55,15 +69,15 @@ Priority: optional
 Description: Zyphor command center GUI control panel for Zyphor OS tools
 
 Package: zyphor-updates
-Version: 1.0.1
+Version: 1.0.2
 Architecture: all
 Maintainer: Mark Jason P. Espelita
-Depends: fastfetch-config-1.0.0 (>= 1.0)
+Depends: fastfetch-config-1
 Filename: pool/main/z/zyphor-updates.deb
-Size: 732
-MD5sum: 5165e8749e6dd44614570a009d4fa3d4
-SHA1: e3d336654e0b802eaab223bed53582403eb9ed8d
-SHA256: 391c311c8535f88e560d7a5578002630a71a65d4b6e375d1ac82aeed6c9bd8fd
+Size: 724
+MD5sum: ddfc8b38cc6b5932d52847da662327ec
+SHA1: 9a3ca369ec0d78b3a4119cf89f72306873c54a78
+SHA256: 0d8f03fa6d0c3b5998c20a5e6a11eb5d62f54dc0b5f60135ad9bd71d7ea1a63f
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
