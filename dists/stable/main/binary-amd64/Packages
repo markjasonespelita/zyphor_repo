@@ -5,37 +5,9 @@ Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/fastfetch-config-1.deb
 Size: 1688
-MD5sum: bc3bd6325b603a43c11579390464e715
-SHA1: fff14456fd02e86dd3e65a5a375d13981c46e0ba
-SHA256: 27ad5400706c1301f25e4ba3160a6c4df575d65fa813886c088e83bab436a9cd
-Section: utils
-Priority: optional
-Description: Zyphor OS Fastfetch Config
-
-Package: fastfetch-config-1.0.0
-Version: 1.0.0
-Architecture: all
-Maintainer: Mark Jason P. Espelita
-Depends: bash
-Filename: pool/main/z/fastfetch-config-1.0.0.deb
-Size: 1160
-MD5sum: 901a410a99e2409894265607c20f3366
-SHA1: 1e366324226a7f8d13882e643fa31f783f5b7f27
-SHA256: 602694e5b1561efdffded9e630c21e4effe9ac8ac7e79e55b05348b1e9951fbc
-Section: utils
-Priority: optional
-Description: Zyphor OS Fastfetch Config
-
-Package: fastfetch-config-1.0.1
-Version: 1.0.1
-Architecture: all
-Maintainer: Mark Jason P. Espelita
-Depends: bash
-Filename: pool/main/z/fastfetch-config-1.0.1.deb
-Size: 1688
-MD5sum: 46648b4eaeec21e1676c2531771e53c1
-SHA1: 8bce4b9ae669407a8fb5cbf3de7508ab0af721c0
-SHA256: 66acf5800ab1109baa557bfbf8ef56b789bf20201929ff5cca80485bea2b8f5a
+MD5sum: 91beb10624068bb7b1710e0bb8e9799e
+SHA1: 6e70e6febc1df10e53daa44036af119d677cb813
+SHA256: 965f5f74c0be38f2073d14900702c5e6a1e9ac3ad19f43853b706a05d4f5c731
 Section: utils
 Priority: optional
 Description: Zyphor OS Fastfetch Config
