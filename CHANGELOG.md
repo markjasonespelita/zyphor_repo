@@ -1,3 +1,10 @@
+## [1.33.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.33.1...v1.33.2) (2026-05-04)
+
+
+### Bug Fixes
+
+* fixed zyphor-updates and fastfetch-config ([bf7638c](https://github.com/markjasonespelita/zyphor_repo/commit/bf7638ca46f5612f189360f7863528844e93f6fa))
+
 ## [1.33.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.33.0...v1.33.1) (2026-05-04)
 
 
