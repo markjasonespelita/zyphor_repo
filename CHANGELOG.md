@@ -1,3 +1,10 @@
+## [1.33.4](https://github.com/markjasonespelita/zyphor_repo/compare/v1.33.3...v1.33.4) (2026-05-04)
+
+
+### Bug Fixes
+
+* fixed zyphor-updates dependencies ([5e47a53](https://github.com/markjasonespelita/zyphor_repo/commit/5e47a53d1b09cd64fc4d988442926fd15f738e24))
+
 ## [1.33.3](https://github.com/markjasonespelita/zyphor_repo/compare/v1.33.2...v1.33.3) (2026-05-04)
 
 
