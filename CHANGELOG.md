@@ -1,3 +1,10 @@
+## [1.34.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.34.0...v1.34.1) (2026-05-09)
+
+
+### Bug Fixes
+
+* fixed new line for the zyphor-updates package. ([fb81b68](https://github.com/markjasonespelita/zyphor_repo/commit/fb81b68324b36dbe32abad71a0f0b2ce07e28e3e))
+
 # [1.34.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.33.4...v1.34.0) (2026-05-04)
 
 
