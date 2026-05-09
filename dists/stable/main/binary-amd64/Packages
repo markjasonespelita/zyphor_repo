@@ -55,15 +55,16 @@ Priority: optional
 Description: Zyphor command center GUI control panel for Zyphor OS tools
 
 Package: zyphor-updates
-Version: 1.1.0
+Version: 1.1.1
 Architecture: all
 Maintainer: Mark Jason P. Espelita
-Depends: fastfetch-config-1, grub-screensaver-1, zyphor-cli, zyphor-command-center, zyphor-wallpapers-nature
+Depends: fastfetch-config-1,
+ grub-screensaver-1
 Filename: pool/main/z/zyphor-updates.deb
-Size: 772
-MD5sum: dc2ceda5707d1ece99bde9a0a5f2264e
-SHA1: 8dc2bac7e4d3178c1cc78f7e8d06e69603e9f530
-SHA256: 516840a8a20e6d57808221e709490402644261555dd9a60d366b06324204d323
+Size: 544
+MD5sum: 27753e6ae1f3054ffc5c511e99965963
+SHA1: 211c479d004b43ac6cc22514bb8b279a9e8f8697
+SHA256: 44ea59d64d1bedfd870c224fa1118abe040e857c825c9fb3b398ea393204ba4b
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
