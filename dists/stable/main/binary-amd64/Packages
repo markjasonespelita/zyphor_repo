@@ -27,15 +27,15 @@ Priority: optional
 Description: Zyphor OS Grub Screensaver
 
 Package: zyphor-cli
-Version: 1.14.1
+Version: 1.14.2
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-cli.deb
-Size: 11598
-MD5sum: eb9ef4965306db19514cdf1bdf7de473
-SHA1: b54da09a1f7c1403061835d2e1c9573deef9938e
-SHA256: fac585a5b361626e89fa78be9b8939c7bd0ead3d2d4acb2b1cd634d8c79164d9
+Size: 11444
+MD5sum: 8249a5b4cee10eb9f13fc8de3c0b8a66
+SHA1: 8e994292bd64119141bd869460c8f90fd5a264f8
+SHA256: 9616b1b485d9682c48227ef2074070198770487cf57aaa9efe6e5771dd2d56a2
 Section: utils
 Priority: optional
 Description: Zyphor OS CLI abstraction layer
