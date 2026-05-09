@@ -1,3 +1,10 @@
+## [1.36.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.36.0...v1.36.1) (2026-05-09)
+
+
+### Bug Fixes
+
+* fixed zyphor cli terminal versioning. ([0d20f7d](https://github.com/markjasonespelita/zyphor_repo/commit/0d20f7df6574f3c139e4c5088ac7da7f07a0a849))
+
 # [1.36.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.35.0...v1.36.0) (2026-05-09)
 
 
