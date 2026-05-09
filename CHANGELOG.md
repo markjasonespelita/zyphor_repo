@@ -1,3 +1,10 @@
+# [1.35.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.34.1...v1.35.0) (2026-05-09)
+
+
+### Features
+
+* make the zyphor setup dev laravel into zyphor setup dev php. ([d3bc020](https://github.com/markjasonespelita/zyphor_repo/commit/d3bc0201744110c1566e26ec13f7a6b9bf6367a4))
+
 ## [1.34.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.34.0...v1.34.1) (2026-05-09)
 
 
