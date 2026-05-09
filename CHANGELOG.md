@@ -1,3 +1,10 @@
+# [1.36.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.35.0...v1.36.0) (2026-05-09)
+
+
+### Features
+
+* added a new setup dev git command. ([0c448aa](https://github.com/markjasonespelita/zyphor_repo/commit/0c448aae3534be1572338038f9c52f428f1934ac))
+
 # [1.35.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.34.1...v1.35.0) (2026-05-09)
 
 
