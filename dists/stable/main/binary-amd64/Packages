@@ -54,17 +54,32 @@ Section: utils
 Priority: optional
 Description: Zyphor command center GUI control panel for Zyphor OS tools
 
+Package: zyphor-display-mac-v1
+Version: 1.0.3
+Architecture: all
+Maintainer: Mark Jason P. Espelita
+Depends: bash, compiz, compiz-plugins, compiz-plugins-extra, compizconfig-settings-manager, dconf-cli
+Filename: pool/main/z/zyphor-display-mac-v1.deb
+Size: 1392
+MD5sum: feea8bdef49a1af6e9ba0a96947098c8
+SHA1: a8a9b0ba4fd7ade3e1c724d1146aca648290ed22
+SHA256: 37069da7c6a6c3f8c16ac73190e4184e0acd9fddce211558515fc02abf32ddf9
+Section: utils
+Priority: optional
+Description: Zyphor OS display mac
+
 Package: zyphor-updates
-Version: 1.1.1
+Version: 1.2.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: fastfetch-config-1,
- grub-screensaver-1
+ grub-screensaver-1,
+ zyphor-display-mac-v1
 Filename: pool/main/z/zyphor-updates.deb
-Size: 544
-MD5sum: 27753e6ae1f3054ffc5c511e99965963
-SHA1: 211c479d004b43ac6cc22514bb8b279a9e8f8697
-SHA256: 44ea59d64d1bedfd870c224fa1118abe040e857c825c9fb3b398ea393204ba4b
+Size: 756
+MD5sum: 9cdd80d8b5bae18ba66946dffce406de
+SHA1: 09a7c5e3a589b4b8109f4ea23a7ba2f0583bf4da
+SHA256: b8d8696a7861080aa969074a3b54b9c5168e4324829b1917136d22bdac12ac20
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
