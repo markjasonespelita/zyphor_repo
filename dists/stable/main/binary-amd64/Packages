@@ -55,15 +55,15 @@ Priority: optional
 Description: Zyphor command center GUI control panel for Zyphor OS tools
 
 Package: zyphor-display-mac-v1
-Version: 1.0.3
+Version: 1.0.10
 Architecture: all
 Maintainer: Mark Jason P. Espelita
-Depends: bash, compiz, compiz-plugins, compiz-plugins-extra, compizconfig-settings-manager, dconf-cli
+Depends: bash, compiz, compiz-plugins, compiz-plugins-extra, compizconfig-settings-manager
 Filename: pool/main/z/zyphor-display-mac-v1.deb
-Size: 1392
-MD5sum: feea8bdef49a1af6e9ba0a96947098c8
-SHA1: a8a9b0ba4fd7ade3e1c724d1146aca648290ed22
-SHA256: 37069da7c6a6c3f8c16ac73190e4184e0acd9fddce211558515fc02abf32ddf9
+Size: 1372
+MD5sum: a22580ecf27476d9bbb21a753064ff1a
+SHA1: 2a5ed716de781b3bc10f128b278ac6b695efd176
+SHA256: 5f06562e17a9ac2eec7ac1c5e4f4b8adb75c0edb482d6d26ecda72d9a685fdfc
 Section: utils
 Priority: optional
 Description: Zyphor OS display mac
