@@ -1,3 +1,10 @@
+## [1.37.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.37.0...v1.37.1) (2026-05-10)
+
+
+### Bug Fixes
+
+* added zyphor-display-mac-v1 - animations ([3043c19](https://github.com/markjasonespelita/zyphor_repo/commit/3043c19bbb3f545c78988621db120a8506d3f8d1))
+
 # [1.37.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.36.1...v1.37.0) (2026-05-10)
 
 
