@@ -1,3 +1,10 @@
+## [1.38.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.38.0...v1.38.1) (2026-05-21)
+
+
+### Bug Fixes
+
+* removed os-release overwrite temporarily. ([97a4ed1](https://github.com/markjasonespelita/zyphor_repo/commit/97a4ed1a9bcb174b93df0cd684df75382b24af44))
+
 # [1.38.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.37.2...v1.38.0) (2026-05-21)
 
 
