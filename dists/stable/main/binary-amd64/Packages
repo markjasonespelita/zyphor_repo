@@ -26,6 +26,20 @@ Section: utils
 Priority: optional
 Description: Zyphor OS Grub Screensaver
 
+Package: os-release
+Version: 1.9.0
+Architecture: all
+Maintainer: Mark Jason P. Espelita
+Depends: bash
+Filename: pool/main/z/os-release.deb
+Size: 728
+MD5sum: 4fc95f370972784c9ec5ced1b479bb44
+SHA1: 296a0f33fce9976eb7d8b998c76615192b56ad2a
+SHA256: 21c1586fa44d91319fe8d408a18ebf8024e562970175adb89b874574e7269613
+Section: utils
+Priority: optional
+Description: Zyphor OS Release
+
 Package: zyphor-cli
 Version: 1.14.2
 Architecture: all
@@ -69,17 +83,24 @@ Priority: optional
 Description: Zyphor OS display mac
 
 Package: zyphor-updates
-Version: 1.2.0
+Version: 1.3.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
-Depends: fastfetch-config-1,
+Depends: os-release,
+ fastfetch-config-1,
  grub-screensaver-1,
- zyphor-display-mac-v1
+ zyphor-display-mac-v1,
+ guvcview,
+ libreoffice,
+ vlc,
+ flameshot,
+ drawing,
+ simplescreenrecorder
 Filename: pool/main/z/zyphor-updates.deb
-Size: 756
-MD5sum: 9cdd80d8b5bae18ba66946dffce406de
-SHA1: 09a7c5e3a589b4b8109f4ea23a7ba2f0583bf4da
-SHA256: b8d8696a7861080aa969074a3b54b9c5168e4324829b1917136d22bdac12ac20
+Size: 622
+MD5sum: e7aae66aa75a8916a28fb6e3aa363435
+SHA1: c0dc09a9dbf9ea3c2deff25a6550bd5d75bc6de9
+SHA256: 7f3e74a1f8c72e1d2509d0baa694958f17e49e792c2f29891bbc1e09379846c5
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
