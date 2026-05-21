@@ -1,3 +1,11 @@
+# [1.38.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.37.2...v1.38.0) (2026-05-21)
+
+
+### Features
+
+* added guvcview, libreoffice, vlc, flameshot, drawing and simplescreenrecorder as app registry entry support. ([155b848](https://github.com/markjasonespelita/zyphor_repo/commit/155b848a77d311c48a3ca7428b12b61dfcaf423c))
+* building new repo and metadata packages. ([57b0ccd](https://github.com/markjasonespelita/zyphor_repo/commit/57b0ccdb7c4232870093857b58fbf8bc219caab7))
+
 ## [1.37.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.37.1...v1.37.2) (2026-05-10)
 
 
