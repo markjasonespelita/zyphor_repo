@@ -1,3 +1,10 @@
+## [1.38.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.38.1...v1.38.2) (2026-05-21)
+
+
+### Bug Fixes
+
+* fixed zyphor os release - postinst solution ([6cf23d6](https://github.com/markjasonespelita/zyphor_repo/commit/6cf23d6aee191cf38894400af326ed23d2a6b689))
+
 ## [1.38.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.38.0...v1.38.1) (2026-05-21)
 
 
