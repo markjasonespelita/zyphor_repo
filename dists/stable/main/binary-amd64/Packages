@@ -83,21 +83,21 @@ Priority: optional
 Description: Zyphor OS display mac
 
 Package: zyphor-os-release
-Version: 1.2.1
+Version: 1.10.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-os-release.deb
-Size: 1028
-MD5sum: dffd522b4723e9cf90a831b75e898d82
-SHA1: 8282e01c22518026a4a1c54655ee6c7fce904822
-SHA256: 6475073fbc3f3e39a973721227feaeaaf947dafb5d567b223941ee31968aab54
+Size: 838
+MD5sum: bf407f84a0103d5b68dc4512942062b9
+SHA1: 8ec489a99fd6813369fc8d0b2e63c05aceb9fc4b
+SHA256: cf274e314c4272115b7dd72b7ab377ab5345bd6cccbe04ca0ec88d6fec772323
 Section: utils
 Priority: optional
 Description: Zyphor OS Release
 
 Package: zyphor-updates
-Version: 1.3.2
+Version: 1.4.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: zyphor-os-release,
@@ -109,12 +109,13 @@ Depends: zyphor-os-release,
  vlc,
  flameshot,
  drawing,
- simplescreenrecorder
+ simplescreenrecorder,
+ ufw
 Filename: pool/main/z/zyphor-updates.deb
-Size: 812
-MD5sum: 572ba948769687ee62f9e6e333705b1f
-SHA1: 2a6cae26f78f6a769cf50610c1ee3d8eee8ff567
-SHA256: 9542566a71c865e5ee7b05d81e44d8690dad344fb3b36b142a5c9abfd29fe0a1
+Size: 626
+MD5sum: 8854d2253ece2ecccfc3b166a07ec65d
+SHA1: 0b90e3fd43621df87f0f53f923f859e1ea414d13
+SHA256: fd9e267cfccf70edd6e90d1dd916a368a4261bd61bc6b70fe00c375c94baab60
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
