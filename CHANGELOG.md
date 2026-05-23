@@ -1,3 +1,11 @@
+# [1.40.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.39.0...v1.40.0) (2026-05-23)
+
+
+### Features
+
+* changed the versioning scheme into vx.x.x-ux ([3069ffa](https://github.com/markjasonespelita/zyphor_repo/commit/3069ffaaf45acba64a4db5538f695da7869398e3))
+* transfer the large default packages into zyphor-updates so that iso build will consume less storage. ([89bafd8](https://github.com/markjasonespelita/zyphor_repo/commit/89bafd8728ae632894010ac2cb27750e9e41aba8))
+
 # [1.39.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.38.3...v1.39.0) (2026-05-22)
 
 
