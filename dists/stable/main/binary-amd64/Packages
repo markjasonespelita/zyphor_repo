@@ -26,20 +26,6 @@ Section: utils
 Priority: optional
 Description: Zyphor OS Grub Screensaver
 
-Package: os-release
-Version: 1.9.0
-Architecture: all
-Maintainer: Mark Jason P. Espelita
-Depends: bash
-Filename: pool/main/z/os-release.deb
-Size: 728
-MD5sum: 4fc95f370972784c9ec5ced1b479bb44
-SHA1: 296a0f33fce9976eb7d8b998c76615192b56ad2a
-SHA256: 21c1586fa44d91319fe8d408a18ebf8024e562970175adb89b874574e7269613
-Section: utils
-Priority: optional
-Description: Zyphor OS Release
-
 Package: zyphor-cli
 Version: 1.14.2
 Architecture: all
@@ -83,27 +69,47 @@ Priority: optional
 Description: Zyphor OS display mac
 
 Package: zyphor-os-release
-Version: 1.10.0
+Version: 2.0.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-os-release.deb
-Size: 838
-MD5sum: bf407f84a0103d5b68dc4512942062b9
-SHA1: 8ec489a99fd6813369fc8d0b2e63c05aceb9fc4b
-SHA256: cf274e314c4272115b7dd72b7ab377ab5345bd6cccbe04ca0ec88d6fec772323
+Size: 846
+MD5sum: 8f3aabd2eda69d6600a5a43e1a2e1079
+SHA1: 89fafecd7599b5329b6893897d4e66f998f5d5e0
+SHA256: 1a24d91508ac0ced8f60bb6d415cdf8545bf3cbb6c653d393c38536b8edd7639
 Section: utils
 Priority: optional
 Description: Zyphor OS Release
 
 Package: zyphor-updates
-Version: 1.4.0
+Version: 2.0.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: zyphor-os-release,
  fastfetch-config-1,
  grub-screensaver-1,
  zyphor-display-mac-v1,
+ fastfetch,
+ vim,
+ curl,
+ jq,
+ figlet,
+ lolcat,
+ php8.4,
+ php8.4-cli,
+ php8.4-fpm,
+ php8.4-mysql,
+ php8.4-sqlite3,
+ php8.4-xml,
+ php8.4-mbstring,
+ php8.4-curl,
+ php8.4-zip,
+ php8.4-bcmath,
+ php8.4-intl,
+ php8.4-redis,
+ php8.4-gd,
+ libapache2-mod-php8.4,
  guvcview,
  libreoffice,
  vlc,
@@ -112,10 +118,10 @@ Depends: zyphor-os-release,
  simplescreenrecorder,
  ufw
 Filename: pool/main/z/zyphor-updates.deb
-Size: 626
-MD5sum: 8854d2253ece2ecccfc3b166a07ec65d
-SHA1: 0b90e3fd43621df87f0f53f923f859e1ea414d13
-SHA256: fd9e267cfccf70edd6e90d1dd916a368a4261bd61bc6b70fe00c375c94baab60
+Size: 728
+MD5sum: 01e06a1a88265783d5de1cadca0746c8
+SHA1: 5c8ec1ba89f1d7c2fbf12add185488449accf5ab
+SHA256: 99d7f712a153a810e088af08ee1b0e6b02a0cf78b8a2674c275c52575e349efe
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
