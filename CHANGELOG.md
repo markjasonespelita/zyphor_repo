@@ -1,3 +1,10 @@
+# [1.41.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.40.0...v1.41.0) (2026-05-25)
+
+
+### Features
+
+* added support for UFW Uncomplicated Firewall packge in the app registry. ([5f18cd6](https://github.com/markjasonespelita/zyphor_repo/commit/5f18cd6665959bcac22211b9c3124de5a99a34cd))
+
 # [1.40.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.39.0...v1.40.0) (2026-05-23)
 
 
