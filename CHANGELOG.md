@@ -1,3 +1,10 @@
+# [1.43.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.42.0...v1.43.0) (2026-05-26)
+
+
+### Features
+
+* added zyphor-os-relase deb support. ([1a3e76f](https://github.com/markjasonespelita/zyphor_repo/commit/1a3e76fbf49246c77949d9e27e65e981213511af))
+
 # [1.42.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.41.0...v1.42.0) (2026-05-26)
 
 
