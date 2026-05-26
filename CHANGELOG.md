@@ -1,3 +1,10 @@
+# [1.42.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.41.0...v1.42.0) (2026-05-26)
+
+
+### Features
+
+* added home_url, support_url and bug_report_url in the os-release file. ([0a92d92](https://github.com/markjasonespelita/zyphor_repo/commit/0a92d92c0df3249f2285fca8f5a52df1a07940f1))
+
 # [1.41.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.40.0...v1.41.0) (2026-05-25)
 
 
