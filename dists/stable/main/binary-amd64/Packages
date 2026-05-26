@@ -69,15 +69,15 @@ Priority: optional
 Description: Zyphor OS display mac
 
 Package: zyphor-os-release
-Version: 2.1.0
+Version: 3.0.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-os-release.deb
-Size: 836
-MD5sum: 152b1413c35c2ed4f6723bbed89dc43c
-SHA1: b6eeeb1b4e881323a79474938ac6b9c5bbaa2199
-SHA256: 33a22820ea9f81c9e7708906f2eab986b894c0bf947e4f6925f7753a81c99e5f
+Size: 890
+MD5sum: 55539ed05b8d6c07441ae032fb12b55c
+SHA1: f43233b40a721c3c870c147cc449a63f1be67589
+SHA256: a8011d5090b02d551e61d6399b88c3259b59cc24878143ef6fe3b580e9cef0ef
 Section: utils
 Priority: optional
 Description: Zyphor OS Release
