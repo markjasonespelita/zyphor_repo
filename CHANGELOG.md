@@ -1,3 +1,12 @@
+# [1.44.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.43.0...v1.44.0) (2026-06-01)
+
+
+### Features
+
+* added the zyshell package executable deb package on the repo ([849533e](https://github.com/markjasonespelita/zyphor_repo/commit/849533ef5ce7a9599711962140f2cd301b9c1e7c))
+* list the zyshell package on the Packages list. ([5865575](https://github.com/markjasonespelita/zyphor_repo/commit/5865575769d55d750b258fb402fd4de8d0c49af0))
+* updated the Packages.gz compresed file - include the zyshell ([f098716](https://github.com/markjasonespelita/zyphor_repo/commit/f098716ca119c4438885628a5b7b8003901634de))
+
 # [1.43.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.42.0...v1.43.0) (2026-05-26)
 
 
