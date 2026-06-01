@@ -168,3 +168,17 @@ Section: utils
 Priority: optional
 Description: Zyphor OS wallpapers-pragmata
 
+Package: zyshell
+Version: 1.0.0
+Architecture: all
+Maintainer: Mark Jason P. Espelita
+Depends: zsh
+Filename: pool/main/z/zyshell.deb
+Size: 9688
+MD5sum: 51ec4ddec48b5dd4e87af5aeda163048
+SHA1: 12e8adfd577f365d38ac0228c86a5e62aec2f088
+SHA256: 2989e38fa1480450bdea1547121168ac6d2cfd3a7760c25f30ce37ca9b335444
+Section: utils
+Priority: optional
+Description: Zyphor OS Default Shell
+
