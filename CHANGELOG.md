@@ -1,3 +1,12 @@
+# [1.47.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.46.0...v1.47.0) (2026-06-04)
+
+
+### Features
+
+* added a new zyphor os screen savers. ([91f7a3b](https://github.com/markjasonespelita/zyphor_repo/commit/91f7a3b7305095d227383c98180c0311ffeed85a))
+* updated zyphor-os-release debian package. ([82d2845](https://github.com/markjasonespelita/zyphor_repo/commit/82d2845d1c192e5a0bb847bb8ffb985454e4238e))
+* updated zyphor-updates debian package. ([a6e8d53](https://github.com/markjasonespelita/zyphor_repo/commit/a6e8d53e36f14603f488335bbf1885477f2e7332))
+
 # [1.46.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.45.0...v1.46.0) (2026-06-02)
 
 
