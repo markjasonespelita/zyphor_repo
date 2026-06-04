@@ -13,29 +13,15 @@ Priority: optional
 Description: Zyphor OS Fastfetch Config
 
 Package: grub-screensaver-1
-Version: 1.0.0
+Version: 2.0.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/grub-screensaver-1.deb
-Size: 1365064
-MD5sum: 79c741901fc6dd0a4150a7e591b4ec9b
-SHA1: 3f1884a1f64d8f069ba3c3d62bde92d27f8e2392
-SHA256: bd892b3ef7daab1a77dab390207f151d93d5b60347aa5a896533096229b1835b
-Section: utils
-Priority: optional
-Description: Zyphor OS Grub Screensaver
-
-Package: grub-screensaver-2
-Version: 1.0.0
-Architecture: all
-Maintainer: Mark Jason P. Espelita
-Depends: bash
-Filename: pool/main/z/grub-screensaver-2.deb
-Size: 1685628
-MD5sum: af8e3de0a20b138b36859a6b355f7a3b
-SHA1: f9137b6e8847e2852522abe5810b9d9a273c526b
-SHA256: 2beb99269b0e9c39962a5aaa5cfe6ab1b6d3df0e772ae703c58e4cb1dfd2be7f
+Size: 1670964
+MD5sum: 91f6af88438bd2562cae163232f14c8f
+SHA1: e409133bee9ddeedc6cb365fb565f2a5bd89eadc
+SHA256: be453eeb9ddde6250526940b5144302d68afd3cffb3170a9a91c14773b00639a
 Section: utils
 Priority: optional
 Description: Zyphor OS Grub Screensaver
@@ -83,26 +69,26 @@ Priority: optional
 Description: Zyphor OS display mac
 
 Package: zyphor-os-release
-Version: 6.0.0
+Version: 6.0.1
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-os-release.deb
-Size: 894
-MD5sum: f25af167577e69493d03d3acbef2f52e
-SHA1: 3c1320092f3b8b20aa0fcbb680946459683de428
-SHA256: 2f54cb3a90423d776ca28d55acb7fa0bf7d6f2c77a669fe4c141feed7884123b
+Size: 1084
+MD5sum: 9a91caf4f38205852435f754b9a30ae5
+SHA1: f5405782c5656cb0c6946c4c259b1edcf6cc2077
+SHA256: 56ec6b7de889f85698c918343a3f952d3b8a299ca74797e346031dd821955375
 Section: utils
 Priority: optional
 Description: Zyphor OS Release
 
 Package: zyphor-updates
-Version: 4.0.0
+Version: 4.0.1
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: zyphor-os-release,
  fastfetch-config-1,
- grub-screensaver-2,
+ grub-screensaver-1,
  zyphor-display-mac-v1,
  fastfetch,
  vim,
@@ -133,10 +119,10 @@ Depends: zyphor-os-release,
  ufw,
  zyshell
 Filename: pool/main/z/zyphor-updates.deb
-Size: 736
-MD5sum: 94463578c1f8d28af5c3b8747a27091f
-SHA1: 6e5b3ec560ef22aa1994c6908fb707d1e89ced46
-SHA256: b21df480b8894b84575b31543db10855feaf5db9e223b352359a61d3483bf4fa
+Size: 928
+MD5sum: ecd11e68fbf91845ca5d479337880ce2
+SHA1: b39e9d245128f7e288c513912b44519b147e9383
+SHA256: d0cce727584d513248205e80eeaea2608d3de8144bcef9ee95986ae64cdec94a
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
