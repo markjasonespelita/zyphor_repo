@@ -1,3 +1,15 @@
+## [1.47.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.47.1...v1.47.2) (2026-06-04)
+
+
+### Bug Fixes
+
+* delete error package. ([d013631](https://github.com/markjasonespelita/zyphor_repo/commit/d0136312fc13d1ff26d3051ec4e0aaa13e0e5763))
+* fixed broken gzip package ([d0480e9](https://github.com/markjasonespelita/zyphor_repo/commit/d0480e9c1af21a6f735416bb7e815ee51ecd4d8a))
+* fixed broken package grub-screensaver-1 ([f477da8](https://github.com/markjasonespelita/zyphor_repo/commit/f477da8850a9ee7104d53507bcf192a2310e3464))
+* re-release the os-release. ([bb7e80a](https://github.com/markjasonespelita/zyphor_repo/commit/bb7e80ad4a68226260d797cf1e16a936cd607a06))
+* re-release the updates. ([661431c](https://github.com/markjasonespelita/zyphor_repo/commit/661431ca9bdc1faea42839b928c9a8a66a10a096))
+* refix the grub screensaver ([9c2ba1a](https://github.com/markjasonespelita/zyphor_repo/commit/9c2ba1a635a7e8b69daec2d3fc28ce33e0fe6ace))
+
 ## [1.47.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.47.0...v1.47.1) (2026-06-04)
 
 
