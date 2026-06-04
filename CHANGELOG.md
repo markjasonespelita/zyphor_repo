@@ -1,3 +1,11 @@
+## [1.47.1](https://github.com/markjasonespelita/zyphor_repo/compare/v1.47.0...v1.47.1) (2026-06-04)
+
+
+### Bug Fixes
+
+* recompress the Packages gzip. ([e7c46ba](https://github.com/markjasonespelita/zyphor_repo/commit/e7c46ba9a46bc1dd385939180bfc260d5512a56c))
+* the list of the packages. ([b91e54d](https://github.com/markjasonespelita/zyphor_repo/commit/b91e54dcf428d41fb0fa981a4a9628c8d40ae892))
+
 # [1.47.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.46.0...v1.47.0) (2026-06-04)
 
 
