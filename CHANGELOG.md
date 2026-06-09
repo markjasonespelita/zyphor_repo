@@ -1,3 +1,13 @@
+# [1.49.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.48.0...v1.49.0) (2026-06-09)
+
+
+### Features
+
+* added new version of zyhor-cli ([da7bd83](https://github.com/markjasonespelita/zyphor_repo/commit/da7bd834e07ed70ca210010456b08736903d2578))
+* added new zyphor-os-release version ([cf82f2b](https://github.com/markjasonespelita/zyphor_repo/commit/cf82f2b1651b35894d2954809bff10b0a0ae81af))
+* updated packages list and details ([ad910f6](https://github.com/markjasonespelita/zyphor_repo/commit/ad910f6a4ab748e607320b73219f95eb1d8dce21))
+* updated the packages compression file ([a9358fb](https://github.com/markjasonespelita/zyphor_repo/commit/a9358fb7846b7d7f63c48ed18bd67fea4cf011b3))
+
 # [1.48.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.47.2...v1.48.0) (2026-06-09)
 
 
