@@ -41,15 +41,15 @@ Priority: optional
 Description: Zyphor OS CLI abstraction layer
 
 Package: zyphor-command-center
-Version: 1.3.0
+Version: 1.3.1
 Architecture: all
-Maintainer: Mark Jason P. Espelita
+Maintainer: Zyphor OS Team
 Depends: python3,python3-pyqt6,curl,jq
 Filename: pool/main/z/zyphor-command-center.deb
-Size: 119448
-MD5sum: 7af4d2c5d1452bb114270a2c5d0048af
-SHA1: 29e81c4785733362acb9e69de536ddd4fba38c58
-SHA256: b83d603d120b3b87d3267f8dc7fbeb53c9f195de5ab7a873edcb2bc4c9d56fa0
+Size: 119718
+MD5sum: dcc8ebb1487bf05f38c75c0a6245bf60
+SHA1: 9c93b81112043048a7824e74cf262ca5786e5cce
+SHA256: c365fe3901a9d73ba94c84e0f091fc7bb2e540faa6a1b88398b3d88999156b7f
 Section: utils
 Priority: optional
 Description: Zyphor command center GUI control panel for Zyphor OS tools
@@ -69,15 +69,15 @@ Priority: optional
 Description: Zyphor OS display mac
 
 Package: zyphor-os-release
-Version: 8.0.0
+Version: 9.0.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-os-release.deb
 Size: 892
-MD5sum: e5bace52e43308d7dbc16aad98046413
-SHA1: 2db77ad242595fdcc785df455286777ee2317703
-SHA256: 695925b4d84e9fa96ebf3be3e6832853536a091f821514b2abe5c8c5d1521b97
+MD5sum: 9c793755406864f8715e9bbaec4b7117
+SHA1: 5d397e59cd0569fd88cd957f6387c4fd3b34ad40
+SHA256: 51d0ff76bb45e5f8498559503e2539c40cce748e2d05c305da97c952e27e5444
 Section: utils
 Priority: optional
 Description: Zyphor OS Release
