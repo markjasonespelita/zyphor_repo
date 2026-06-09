@@ -1,3 +1,13 @@
+# [1.48.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.47.2...v1.48.0) (2026-06-09)
+
+
+### Features
+
+* added new compresed packages ([657f904](https://github.com/markjasonespelita/zyphor_repo/commit/657f9045da46fc72f437b61cfb866becf696ef73))
+* added new updated Packages information list ([db31da9](https://github.com/markjasonespelita/zyphor_repo/commit/db31da9ba87030d9b5f6fb28a4caf0067f396a19))
+* uploaded a new os-releease. ([74a229b](https://github.com/markjasonespelita/zyphor_repo/commit/74a229bdb813ee23631abb05b36f2d7461bbfd88))
+* uploaded a new version of zyshell. ([24b6510](https://github.com/markjasonespelita/zyphor_repo/commit/24b651057cf9e787de64ede76bdca074aef0dd98))
+
 ## [1.47.2](https://github.com/markjasonespelita/zyphor_repo/compare/v1.47.1...v1.47.2) (2026-06-04)
 
 
