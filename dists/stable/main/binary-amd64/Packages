@@ -27,15 +27,15 @@ Priority: optional
 Description: Zyphor OS Grub Screensaver
 
 Package: zyphor-cli
-Version: 1.16.3
+Version: 1.16.4
 Architecture: all
 Maintainer: Zyphor OS Team
 Depends: bash
 Filename: pool/main/z/zyphor-cli.deb
-Size: 11712
-MD5sum: c88ea46be7612f667d19c89efba496c7
-SHA1: 1d236c019a44156e605e4826bbadc549ae2590b1
-SHA256: 6d51f6908191be6f47b067f2470afdc9b8217e47e518b5a6c069a1e7d8c4b698
+Size: 11736
+MD5sum: fb27d41bf53939c0d938fe6ae27acc99
+SHA1: 122814a764e1e01523d10315b96693cb3d231e88
+SHA256: 60ba42d518245866a4316dceb29ab092a5e8ae22726dc490cd051dfcaf8ffc6d
 Section: utils
 Priority: optional
 Description: Zyphor OS CLI abstraction layer
@@ -69,15 +69,15 @@ Priority: optional
 Description: Zyphor OS display mac
 
 Package: zyphor-os-release
-Version: 9.0.0
+Version: 10.0.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-os-release.deb
-Size: 892
-MD5sum: 9c793755406864f8715e9bbaec4b7117
-SHA1: 5d397e59cd0569fd88cd957f6387c4fd3b34ad40
-SHA256: 51d0ff76bb45e5f8498559503e2539c40cce748e2d05c305da97c952e27e5444
+Size: 1072
+MD5sum: 94fe2f5d9ea9b1c2da3c6016d099735a
+SHA1: eaa09d1977b4c338bc63fca5533593adab9fda65
+SHA256: d7d26413a805965fc319d73e9f8753356975c49ba3a9f2a2ecd4e865ed173ef0
 Section: utils
 Priority: optional
 Description: Zyphor OS Release
