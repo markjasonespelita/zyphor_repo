@@ -1,3 +1,10 @@
+# [1.53.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.52.0...v1.53.0) (2026-06-11)
+
+
+### Features
+
+* added zyphor-whats-new on the app registry. ([e6e779c](https://github.com/markjasonespelita/zyphor_repo/commit/e6e779cc0636ac9b104cc03fc4ff0fe64dc9b301))
+
 # [1.52.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.51.0...v1.52.0) (2026-06-11)
 
 
