@@ -83,7 +83,7 @@ Priority: optional
 Description: Zyphor OS Release
 
 Package: zyphor-updates
-Version: 4.0.1
+Version: 5.0.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: zyphor-os-release,
@@ -117,12 +117,13 @@ Depends: zyphor-os-release,
  drawing,
  simplescreenrecorder,
  ufw,
- zyshell
+ zyshell,
+ zyphor-whats-new
 Filename: pool/main/z/zyphor-updates.deb
-Size: 928
-MD5sum: ecd11e68fbf91845ca5d479337880ce2
-SHA1: b39e9d245128f7e288c513912b44519b147e9383
-SHA256: d0cce727584d513248205e80eeaea2608d3de8144bcef9ee95986ae64cdec94a
+Size: 744
+MD5sum: 8ff8ff74e4235a9d901208859e76a059
+SHA1: ce7d3696dd6851f470628acfc1e5da263e860b72
+SHA256: 59aef491b0a458f9785fe1671fa34befc4fc940203dcc16de419d5b6a707a481
 Section: utils
 Priority: optional
 Description: Zyphor OS Updates
