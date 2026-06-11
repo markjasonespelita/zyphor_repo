@@ -69,15 +69,15 @@ Priority: optional
 Description: Zyphor OS display mac
 
 Package: zyphor-os-release
-Version: 10.0.0
+Version: 11.0.0
 Architecture: all
 Maintainer: Mark Jason P. Espelita
 Depends: bash
 Filename: pool/main/z/zyphor-os-release.deb
-Size: 1072
-MD5sum: 94fe2f5d9ea9b1c2da3c6016d099735a
-SHA1: eaa09d1977b4c338bc63fca5533593adab9fda65
-SHA256: d7d26413a805965fc319d73e9f8753356975c49ba3a9f2a2ecd4e865ed173ef0
+Size: 894
+MD5sum: a433ed22a11b8baeff9254afca8c61d4
+SHA1: e81a3195e3a34b281f208ff5418edd74dce566c4
+SHA256: 308fd1ada75e97d716eaa6ef6615aea82cecd52d97537053d3686ccc1e502365
 Section: utils
 Priority: optional
 Description: Zyphor OS Release
@@ -168,6 +168,22 @@ SHA256: e0ba8f16bd0182ee936bfee3623dd86cad264404452ab44da71e4f720de200fc
 Section: utils
 Priority: optional
 Description: Zyphor OS wallpapers-pragmata
+
+Package: zyphor-whats-new
+Version: 1.0.0-stable-release
+Architecture: amd64
+Maintainer: Mark Jason P. Espelita
+Depends: xdg-utils
+Filename: pool/main/z/zyphor-whats-new.deb
+Size: 2456
+MD5sum: 9c2766c5ae21186763e82313b5799ead
+SHA1: 6f59eeb52057d8177660ca8e1edc57965515d72e
+SHA256: 57443063af3aa179437400f5c7026892d389caf4c1978a2ad6989fdbfd1052a7
+Section: utils
+Priority: optional
+Description: Zyphor OS What's New
+ A lightweight release notes viewer for Zyphor OS that shows system updates
+ and changes in the browser after upgrades.
 
 Package: zyshell
 Version: 1.1.0
