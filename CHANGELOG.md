@@ -1,3 +1,13 @@
+# [1.52.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.51.0...v1.52.0) (2026-06-11)
+
+
+### Features
+
+* added new debian package - zyphor-whats-new ([8417697](https://github.com/markjasonespelita/zyphor_repo/commit/841769759159a13bfc4627b0bf1e899b5284939b))
+* added new os-release version ([ac4ac57](https://github.com/markjasonespelita/zyphor_repo/commit/ac4ac57e38cc0eff73f60d085ec2589adbaae33b))
+* recompress packages. ([ad0fecf](https://github.com/markjasonespelita/zyphor_repo/commit/ad0fecfe142d7774644396f2e218bc5a39049a57))
+* updated Packages list - added zyphor-whats-new package. ([fa87479](https://github.com/markjasonespelita/zyphor_repo/commit/fa874790ec6430d490dde59e6c34961f1d8c83aa))
+
 # [1.51.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.50.0...v1.51.0) (2026-06-10)
 
 
