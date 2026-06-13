@@ -1,3 +1,13 @@
+# [1.55.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.54.0...v1.55.0) (2026-06-11)
+
+
+### Features
+
+* new os release version ([491a43a](https://github.com/markjasonespelita/zyphor_repo/commit/491a43ac4a3c7d20b6167597184ea6d55f0d6515))
+* new packages compressed ([f9d43ee](https://github.com/markjasonespelita/zyphor_repo/commit/f9d43ee78c59bac4466ff660a50c5662e783f6c8))
+* new packages list ([47838b5](https://github.com/markjasonespelita/zyphor_repo/commit/47838b5745f2d7966a52a639b8da064324abbd54))
+* new whats new version ([d9eb46e](https://github.com/markjasonespelita/zyphor_repo/commit/d9eb46ebc903d9845e16017bbc8d1dfbdf810603))
+
 # [1.54.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.53.0...v1.54.0) (2026-06-11)
 
 
