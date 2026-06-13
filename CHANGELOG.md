@@ -1,3 +1,16 @@
+# [1.57.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.56.0...v1.57.0) (2026-06-13)
+
+
+### Features
+
+* added a Makefile for deployment automation. ([73c4583](https://github.com/markjasonespelita/zyphor_repo/commit/73c4583253953732d8945c4d5dba8e383ab4802b))
+* added a new command center version ([a55a7f9](https://github.com/markjasonespelita/zyphor_repo/commit/a55a7f96940bdb4b2ce4806c0332340a191eb896))
+* added a new list of packages. ([9381a96](https://github.com/markjasonespelita/zyphor_repo/commit/9381a9651a8b702d75981c26e6150858aaa63d70))
+* added a new os release version ([4d95740](https://github.com/markjasonespelita/zyphor_repo/commit/4d957406aadb055a5c934ae175433b64dfbdf57e))
+* added a new package compress file ([999d748](https://github.com/markjasonespelita/zyphor_repo/commit/999d748932439845923a296c62ea24e1a497b49a))
+* added a new whats new version ([86541eb](https://github.com/markjasonespelita/zyphor_repo/commit/86541eb2fac82dcffa59af8aaea0254aefb559e3))
+* added a new zyshell version ([181094a](https://github.com/markjasonespelita/zyphor_repo/commit/181094a6088e5ca355e8109a4ef1a78a070e907d))
+
 # [1.56.0](https://github.com/markjasonespelita/zyphor_repo/compare/v1.55.0...v1.56.0) (2026-06-13)
 
 
