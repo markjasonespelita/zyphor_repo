@@ -12,23 +12,11 @@ add:
 	git add dists/stable/main/binary-amd64/Packages.gz
 	git commit -m "chore: updated Packages.gz index"
 
-	git add pool/main/z/zyphor-cli.deb
-	git commit -m "chore: updated zyphor-cli package"
-
 	git add pool/main/z/zyphor-command-center.deb
 	git commit -m "chore: updated zyphor-command-center package"
 
-	git add pool/main/z/zyphor-os-release.deb
-	git commit -m "chore: updated zyphor-os-release package"
-
-	git add pool/main/z/zyphor-updates.deb
-	git commit -m "chore: updated zyphor-updates package"
-
 	git add pool/main/z/zyphor-whats-new.deb
 	git commit -m "chore: updated zyphor-whats-new package"
-
-	git add pool/main/z/zyphor-repo-config.deb
-	git commit -m "chore: added zyphor-repo-config package"
 
 	git add Makefile
 	git commit -m "chore: update Makefile automation script"
